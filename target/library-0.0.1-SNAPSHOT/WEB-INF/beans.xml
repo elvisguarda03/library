@@ -1,0 +1,6 @@
+<beans>
+	<interceptors>
+		<class>br.com.caelum.livraria.tx.TransactionManagement</class>
+		<class>br.com.caelum.livraria.util.TimeExecution</class>
+	</interceptors>
+</beans>
